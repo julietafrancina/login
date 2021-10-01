@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;
+    background-color: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.login-container {
+    background-color: #ffffff;
+}
+
+.image-container {
+    background-image: url(https://images.unsplash.com/photo-1633092468088-f5092e0b5129?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80);
+}
